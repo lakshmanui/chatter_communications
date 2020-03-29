@@ -1,2 +1,1 @@
-# lakshmanuidev-gmail.com
-chatter-communications
+# chatter-communications
